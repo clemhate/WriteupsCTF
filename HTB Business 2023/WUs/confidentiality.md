@@ -1,4 +1,4 @@
-#HTB Business 2023 : Confidentiality (Web3)
+# HTB Business 2023 : Confidentiality (Web3)
 ***
 ### Details :
 First of all, the contract relays on a signature check to mint an erc721 token.
