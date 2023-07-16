@@ -1,4 +1,4 @@
-#HTB Business 2023 : Confidentiality (Web3)
+# HTB Business 2023 : Confidentiality (Web3)
 ***
 ### Details :
 First of all, the contract relays on a signature check to mint an erc721 token.
@@ -19,11 +19,11 @@ function safeMintWithSignature(bytes memory signature, address to) external retu
     }
 ```
 ***
-###Requirements :
+### Requirements :
 - One signature already used
 - The ECC used (in our case ethereum uses the **SECP256k1**)
 
-###Finding the signature :
+### Finding the signature :
 Since we need a valid signature, we need to find the signature used by the following setup contract :
 ```solidity
 contract Setup {
