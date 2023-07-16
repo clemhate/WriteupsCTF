@@ -1,4 +1,4 @@
-#HTB Business 2023 : Funds_Secured (Web3)
+# HTB Business 2023 : Funds_Secured (Web3)
 ***
 ### Details :
 First of all, the contract relays on a function to ensure multisignature from 6 members of a list.
