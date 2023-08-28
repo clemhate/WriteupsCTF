@@ -153,4 +153,4 @@ type                    2
 ```
 
 Now enjoy ! 
-```HTB{m4113481117y_4u7h021235_4cc3551}```
+```HTB{XXXXXXXXXXXXXX}```
